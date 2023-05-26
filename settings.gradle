@@ -1,0 +1,3 @@
+include ':demo:eureka-client'
+include ':demo:eureka-server'
+include ':demo:feign-client'
